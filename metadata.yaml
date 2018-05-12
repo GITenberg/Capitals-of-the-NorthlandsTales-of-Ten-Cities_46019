@@ -18,6 +18,8 @@ creator:
     gutenberg_agent_id: '43576'
     url: http://www.gutenberg.org/2009/agents/43576
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46019#Capitals-of-the-NorthlandsTales-of-Ten-Cities
 gutenberg_issued: '2014-06-18'
 gutenberg_type: Text
 identifiers:
