@@ -1,0 +1,41 @@
+_repo: Capitals-of-the-NorthlandsTales-of-Ten-Cities_46019
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Hannah, Edith B.
+    alias: Hannah, Edith Brand
+    gutenberg_agent_id: '43577'
+    url: http://www.gutenberg.org/2009/agents/43577
+covers:
+- cover_type: archival
+  image_path: 46019-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hannah, Ian C.
+    alias: Hannah, Ian Campbell
+    birthdate: 1874
+    deathdate: 1944
+    gutenberg_agent_id: '43576'
+    url: http://www.gutenberg.org/2009/agents/43576
+description: ''
+gutenberg_issued: '2014-06-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46019'
+  lccn: '14009545'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Scandinavia -- Description and travel'
+- !lcsh 'Russia -- Description and travel'
+- !lcc 'D'
+- !lcsh 'Capitals (Cities)'
+tableOfContents: Thorshavn, capital of the Faroe Islands -- Reykjavik, capital of
+  Iceland -- Trondhjem, old capital of Norway -- Christiania, capital of Norway --
+  Roskilde, old capital of Denmark -- Copenhagen, capital of Denmark -- Visby, capital
+  of Gothland -- Upsala, old capital of Sweden -- Stockholm, capital of Sweden --
+  St. Petersburg, capital of Russia.
+title: 'Capitals of the Northlands: Tales of Ten Cities'
+url: http://www.gutenberg.org/ebooks/46019
